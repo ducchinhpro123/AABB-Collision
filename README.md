@@ -2,7 +2,7 @@
 
 A C++ project for AABB (Axis-Aligned Bounding Box) collision detection using SFML.
 
-![img](2025-04-07_10-10.png "Demo")
+![img](2025-04-07_10-00.png "Demo")
 
 ## Building
 
