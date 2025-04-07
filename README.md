@@ -2,12 +2,7 @@
 
 A C++ project for AABB (Axis-Aligned Bounding Box) collision detection using SFML.
 
-## Requirements
-
-- Meson build system
-- Ninja build backend
-- C++ compiler (GCC, Clang, etc.)
-- SFML library (libsfml-dev package on Debian/Ubuntu)
+![img](2025-04-07_19-100.png "Demo")
 
 ## Building
 
@@ -22,10 +17,3 @@ meson compile -C builddir
 ./builddir/aabb_collision
 ```
 
-## Development
-
-To reconfigure with different options:
-
-```bash
-meson configure builddir -Dbuildtype=debug
-``` 
